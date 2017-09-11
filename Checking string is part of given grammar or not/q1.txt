@@ -1,0 +1,12 @@
+A -> aNT
+N -> n
+T -> t
+A -> aND
+D -> d
+A -> cM
+M -> aT
+ant A
+and A
+cat A
+at A
+at M
